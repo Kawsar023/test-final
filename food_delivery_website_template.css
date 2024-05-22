@@ -1,0 +1,1272 @@
+.food-delivery-website-template .logo {
+  margin-right: 24px;
+  width: 1148px;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 700;
+  font-size: 32px;
+  letter-spacing: 0.3px;
+  line-height: 1.5;
+  color: #F40469;
+}
+.food-delivery-website-template .sign-in {
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: 0.3px;
+  line-height: 1.333;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .menu {
+  margin: 17px 0px 7px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .header {
+  margin: 0 104.9px 28px 104px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1231.1px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .preset {
+  background: url('../assets/images/preset.jpeg') 50% / cover no-repeat, linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3));
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.food-delivery-website-template .your-favorite-food {
+  position: relative;
+  margin-bottom: 43px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 56px;
+  letter-spacing: 0.4px;
+  line-height: 1.286;
+  color: #FFFFFF;
+}
+.food-delivery-website-template .combined-shape {
+  width: 18px;
+  height: 20.5px;
+}
+.food-delivery-website-template .location-1 {
+  margin: 9.7px 14px 9.8px 0;
+  display: flex;
+  width: 18px;
+  height: 20.5px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .new-york {
+  margin: 8px 34.8px 8px 0;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: 0.3px;
+  line-height: 1.333;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .rectangle-2 {
+  background: #C5CBD1;
+  width: 1px;
+  height: 40px;
+}
+.food-delivery-website-template .container-25 {
+  margin: 10px 0 6px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .search {
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: 0.3px;
+  line-height: 1.333;
+  color: #FFFFFF;
+}
+.food-delivery-website-template .button {
+  border-radius: 0 28px 28px 0;
+  background: #FF006E;
+  position: relative;
+  display: flex;
+  padding: 16px 0 16px 2px;
+  width: 136px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .search-bar {
+  border-radius: 30px;
+  background: #FFFFFF;
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-left: 25px;
+  width: 815px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .hero-cta {
+  background: linear-gradient(180deg, #C5CBD1, #C5CBD1);
+  position: relative;
+  margin-bottom: 124px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 145px 0 188px 0;
+  width: 1440px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .images {
+  margin-right: 64px;
+  width: 605px;
+  height: 591.4px;
+}
+.food-delivery-website-template .take-ataste-come-j {
+  margin-bottom: 97px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 48px;
+  letter-spacing: 0.3px;
+  line-height: 1.333;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .button-4 {
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 600;
+  font-size: 21px;
+  letter-spacing: 1px;
+  line-height: 1.143;
+  color: #FFFFFF;
+}
+.food-delivery-website-template .button-1 {
+  border-radius: 40px;
+  background: #FF006E;
+  position: relative;
+  display: flex;
+  align-self: flex-start;
+  padding: 16px 0.2px 16px 0;
+  width: 246px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .container-32 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .in-the-artists-own {
+  position: absolute;
+  left: 0px;
+  bottom: 90px;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.3px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .container-18 {
+  position: relative;
+  margin: 103px 0 79.4px 0;
+  display: flex;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .promotion {
+  margin: 0 73.7px 125.6px 0;
+  display: flex;
+  flex-direction: row;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .popular-on-new-york {
+  margin-right: 24px;
+  width: 1096.1px;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 32px;
+  letter-spacing: 0.3px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .view-all-1 {
+  margin-right: 12px;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: 0.8px;
+  line-height: 1.333;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .combined-shape-9 {
+  width: 16px;
+  height: 16px;
+}
+.food-delivery-website-template .icon-uiarrow-right {
+  margin: 4px 0;
+  display: flex;
+  width: 16px;
+  height: 16px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .view-all {
+  margin: 17px 0 7px 0;
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .container-33 {
+  margin: 0 108px 27px 104px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1228px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .photo-3 {
+  border-radius: 32px;
+  background: url('../assets/images/photo_2.jpeg') 50% / cover no-repeat, linear-gradient(180deg, #D8D8D8, #D8D8D8);
+  width: 400px;
+  height: 616px;
+}
+.food-delivery-website-template .photo-4 {
+  border-radius: 32px;
+  background: url('../assets/images/photo_3.jpeg') 50% / cover no-repeat, linear-gradient(180deg, #D8D8D8, #D8D8D8);
+  margin-bottom: 14px;
+  width: 400px;
+  height: 240px;
+}
+.food-delivery-website-template .restaurant-name-1 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: 0.3px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .combined-shape-12 {
+  width: 15px;
+  height: 13.5px;
+}
+.food-delivery-website-template .icon-delivery-1 {
+  margin: 4.3px 9.5px 6.3px 0;
+  display: flex;
+  width: 15px;
+  height: 13.5px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .delivery-fee-1 {
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.333;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .container-27 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .combined-shape-13 {
+  width: 13.5px;
+  height: 13.5px;
+}
+.food-delivery-website-template .icon-time-1 {
+  margin: 4.3px 10.3px 6.3px 0;
+  display: flex;
+  width: 13.5px;
+  height: 13.5px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .time-1 {
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.333;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .container-11 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .container-4 {
+  margin-left: 1.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 333.1px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .text-1 {
+  margin-bottom: 46px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .photo-6 {
+  border-radius: 32px;
+  background: url('../assets/images/photo.jpeg') 50% / cover no-repeat, linear-gradient(180deg, #D8D8D8, #D8D8D8);
+  width: 400px;
+  height: 240px;
+}
+.food-delivery-website-template .container-24 {
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .photo-5 {
+  border-radius: 32px;
+  background: url('../assets/images/photo_4.jpeg') 50% / cover no-repeat, linear-gradient(180deg, #D8D8D8, #D8D8D8);
+  margin-bottom: 14px;
+  width: 400px;
+  height: 240px;
+}
+.food-delivery-website-template .restaurant-name-2 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: 0.3px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .combined-shape-14 {
+  width: 15px;
+  height: 13.5px;
+}
+.food-delivery-website-template .icon-delivery-2 {
+  margin: 4.3px 9.5px 6.3px 0;
+  display: flex;
+  width: 15px;
+  height: 13.5px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .delivery-fee-2 {
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.333;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .container-21 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .combined-shape-15 {
+  width: 13.5px;
+  height: 13.5px;
+}
+.food-delivery-website-template .icon-time-2 {
+  margin: 4.3px 10.3px 6.3px 0;
+  display: flex;
+  width: 13.5px;
+  height: 13.5px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .time-2 {
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.333;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .container-14 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .container-22 {
+  margin-left: 1.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 333.1px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .text-2 {
+  margin-bottom: 46px;
+  display: flex;
+  flex-direction: column;
+  align-self: flex-start;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .photo-7 {
+  border-radius: 32px;
+  background: url('../assets/images/photo_1.jpeg') 50% / cover no-repeat, linear-gradient(180deg, #D8D8D8, #D8D8D8);
+  width: 400px;
+  height: 240px;
+}
+.food-delivery-website-template .container-19 {
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .container-12 {
+  margin: 0 84px 2px 104px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 26px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .restaurant-name {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: 0.3px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .combined-shape-10 {
+  width: 15px;
+  height: 13.5px;
+}
+.food-delivery-website-template .icon-delivery {
+  margin: 4.3px 9.5px 6.3px 0;
+  display: flex;
+  width: 15px;
+  height: 13.5px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .delivery-fee {
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.333;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .container-10 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .combined-shape-11 {
+  width: 13.5px;
+  height: 13.5px;
+}
+.food-delivery-website-template .icon-time {
+  margin: 4.3px 10.3px 6.3px 0;
+  display: flex;
+  width: 13.5px;
+  height: 13.5px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .time {
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.333;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .container-2 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .container-28 {
+  margin-left: 1.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 333.1px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .text {
+  margin-top: 12px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .restaurant-name-3 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: 0.3px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .combined-shape-16 {
+  width: 15px;
+  height: 13.5px;
+}
+.food-delivery-website-template .icon-delivery-3 {
+  margin: 4.3px 9.5px 6.3px 0;
+  display: flex;
+  width: 15px;
+  height: 13.5px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .delivery-fee-3 {
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.333;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .container-34 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .combined-shape-17 {
+  width: 13.5px;
+  height: 13.5px;
+}
+.food-delivery-website-template .icon-time-3 {
+  margin: 4.3px 10.3px 6.3px 0;
+  display: flex;
+  width: 13.5px;
+  height: 13.5px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .time-3 {
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.333;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .container-6 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .container-30 {
+  margin-left: 1.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 333.1px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .text-3 {
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .restaurant-name-4 {
+  margin-bottom: 4px;
+  display: inline-block;
+  align-self: flex-start;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 24px;
+  letter-spacing: 0.3px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .combined-shape-18 {
+  width: 15px;
+  height: 13.5px;
+}
+.food-delivery-website-template .icon-delivery-4 {
+  margin: 4.3px 9.5px 6.3px 0;
+  display: flex;
+  width: 15px;
+  height: 13.5px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .delivery-fee-4 {
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.333;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .container-13 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .combined-shape-19 {
+  width: 13.5px;
+  height: 13.5px;
+}
+.food-delivery-website-template .icon-time-4 {
+  margin: 4.3px 10.3px 6.3px 0;
+  display: flex;
+  width: 13.5px;
+  height: 13.5px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .time-4 {
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 1.333;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .container-1 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .container-5 {
+  margin-left: 1.5px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 333.1px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .text-4 {
+  margin-bottom: 12px;
+  display: flex;
+  flex-direction: column;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .container {
+  margin: 0 140.4px 159px 104px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 1195.6px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .how-it-works-1 {
+  margin-bottom: 43px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 48px;
+  letter-spacing: 0.3px;
+  line-height: 1.333;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .ornament-16 {
+  width: 96px;
+  height: 88px;
+}
+.food-delivery-website-template .ornament-15 {
+  margin-bottom: 22px;
+  display: flex;
+  width: 96px;
+  height: 88px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .title-2 {
+  margin-bottom: 17px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: 0.3px;
+  line-height: 1.333;
+  color: #F40469;
+}
+.food-delivery-website-template .description-2 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.3px;
+  line-height: 1.714;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .container-20 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .combined-shape-3 {
+  width: 40px;
+  height: 66.7px;
+}
+.food-delivery-website-template .icon {
+  position: absolute;
+  left: 50%;
+  top: 46.7px;
+  translate: -50% 0;
+  display: flex;
+  width: 40px;
+  height: 66.7px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .how-2 {
+  box-shadow: 0px 0px 16px 0px rgba(0, 0, 0, 0.03), 0px 33px 32px 0px rgba(50, 44, 44, 0.05), 0px 1px 1px 0px rgba(82, 73, 73, 0.1);
+  border-radius: 32px;
+  background: #FEFFFF;
+  position: relative;
+  display: flex;
+  padding: 56px 0 33px 0;
+  width: 288px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .ornament-12 {
+  width: 96px;
+  height: 88px;
+}
+.food-delivery-website-template .ornament-11 {
+  margin-bottom: 22px;
+  display: flex;
+  width: 96px;
+  height: 88px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .title {
+  margin-bottom: 17px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: 0.3px;
+  line-height: 1.333;
+  color: #F40469;
+}
+.food-delivery-website-template .description {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.3px;
+  line-height: 1.714;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .container-8 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .combined-shape-1 {
+  width: 60px;
+  height: 63.3px;
+}
+.food-delivery-website-template .icon-food-delivery-food-2 {
+  position: absolute;
+  left: 50%;
+  top: 46.7px;
+  translate: -50% 0;
+  display: flex;
+  width: 60px;
+  height: 63.3px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .how {
+  box-shadow: 0px 0px 16px 0px rgba(0, 0, 0, 0.03), 0px 33px 32px 0px rgba(50, 44, 44, 0.05), 0px 1px 1px 0px rgba(82, 73, 73, 0.1);
+  border-radius: 32px;
+  background: #FEFFFF;
+  position: relative;
+  display: flex;
+  padding: 56px 0 33px 0;
+  width: 288px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .ornament-14 {
+  width: 96px;
+  height: 88px;
+}
+.food-delivery-website-template .ornament-13 {
+  margin-bottom: 22px;
+  display: flex;
+  width: 96px;
+  height: 88px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .title-1 {
+  margin-bottom: 17px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: 0.3px;
+  line-height: 1.333;
+  color: #F40469;
+}
+.food-delivery-website-template .description-1 {
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.3px;
+  line-height: 1.714;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .container-7 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .combined-shape-2 {
+  width: 63.3px;
+  height: 63.3px;
+}
+.food-delivery-website-template .icon-food-delivery-chicken {
+  position: absolute;
+  left: 50%;
+  top: 46.7px;
+  translate: -50% 0;
+  display: flex;
+  width: 63.3px;
+  height: 63.3px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .how-1 {
+  box-shadow: 0px 0px 16px 0px rgba(0, 0, 0, 0.03), 0px 33px 32px 0px rgba(50, 44, 44, 0.05), 0px 1px 1px 0px rgba(82, 73, 73, 0.1);
+  border-radius: 32px;
+  background: #FEFFFF;
+  position: relative;
+  display: flex;
+  padding: 56px 0 33px 0;
+  width: 288px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .container-3 {
+  display: flex;
+  flex-direction: row;
+  column-gap: 32px;
+  width: 928px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .how-it-works {
+  margin-bottom: 160px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 928px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .container-29 {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.food-delivery-website-template .food-delivery-helps {
+  position: relative;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 48px;
+  letter-spacing: 0.3px;
+  line-height: 1.333;
+  color: #FFFFFF;
+}
+.food-delivery-website-template .button-5 {
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 600;
+  font-size: 21px;
+  letter-spacing: 1px;
+  line-height: 1.143;
+  color: #FFFFFF;
+}
+.food-delivery-website-template .button-2 {
+  border-radius: 40px;
+  background: #283646;
+  position: absolute;
+  left: 104px;
+  bottom: 80px;
+  display: flex;
+  padding: 16px 0 16px 0.4px;
+  width: 248px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .button-6 {
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 600;
+  font-size: 21px;
+  letter-spacing: 1px;
+  line-height: 1.143;
+  color: #FFFFFF;
+}
+.food-delivery-website-template .button-3 {
+  position: absolute;
+  left: 411.4px;
+  bottom: 96px;
+  display: flex;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .cta {
+  border-radius: 32px;
+  background: #FF6A90;
+  position: relative;
+  margin: 0 104px 103px 104px;
+  padding: 55px 104px 113px 104px;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .what-our-food-lovers {
+  margin: 0 0 23px 15.1px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 48px;
+  letter-spacing: 0.3px;
+  line-height: 1.333;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .in-the-artists-own-1 {
+  margin: 0 48.1px 59px 63.2px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 16px;
+  letter-spacing: 0.3px;
+  line-height: 1.5;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .path-5 {
+  width: 6px;
+  height: 12px;
+}
+.food-delivery-website-template .chevron-left {
+  margin: 165px 0 166px 0;
+  display: flex;
+  width: 6px;
+  height: 12px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .photo-1 {
+  margin-bottom: 22px;
+  width: 80px;
+  height: 80px;
+}
+.food-delivery-website-template .in-the-artists-own-2 {
+  margin-bottom: 20px;
+  display: inline-block;
+  text-align: center;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 600;
+  font-size: 24px;
+  letter-spacing: 0.3px;
+  line-height: 1.5;
+  color: #F8F9FA;
+}
+.food-delivery-website-template .tim-oliver-ordered {
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 700;
+  font-size: 18px;
+  letter-spacing: 0.3px;
+  line-height: 1.333;
+  color: #F40469;
+}
+.food-delivery-website-template .container-31 {
+  border-radius: 32px;
+  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../assets/images/rectangle.jpeg') 50% / cover no-repeat, linear-gradient(#F8F9FA, #F8F9FA);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 608px;
+}
+.food-delivery-website-template .path-8 {
+  width: 6px;
+  height: 12px;
+}
+.food-delivery-website-template .chevron-right {
+  margin: 165px 0 166px 0;
+  display: flex;
+  width: 6px;
+  height: 12px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .container-15 {
+  margin: 0 0 84px 15.1px;
+  display: flex;
+  flex-direction: row;
+  column-gap: 34px;
+  width: 688px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .combined-shape-4 {
+  width: 141.9px;
+  height: 60.3px;
+}
+.food-delivery-website-template .logo-1 {
+  margin: 2px 54.1px 2.7px 0;
+  display: flex;
+  width: 141.9px;
+  height: 60.3px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .combined-shape-5 {
+  width: 133.1px;
+  height: 65px;
+}
+.food-delivery-website-template .logo-2 {
+  display: flex;
+  width: 133.1px;
+  height: 65px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .container-26 {
+  display: flex;
+  flex-direction: row;
+  width: 329.1px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .combined-shape-6 {
+  width: 88.9px;
+  height: 60.8px;
+}
+.food-delivery-website-template .logo-3 {
+  margin: 2px 0 2.2px 0;
+  display: flex;
+  width: 88.9px;
+  height: 60.8px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .combined-shape-7 {
+  width: 125.1px;
+  height: 39.2px;
+}
+.food-delivery-website-template .logo-4 {
+  margin: 12px 0 13.8px 0;
+  display: flex;
+  width: 125.1px;
+  height: 39.2px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .combined-shape-8 {
+  width: 108.9px;
+  height: 34.6px;
+}
+.food-delivery-website-template .logo-5 {
+  margin: 15px 0 15.4px 0;
+  display: flex;
+  width: 108.9px;
+  height: 34.6px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .logo-clients {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 890.9px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .testimonial {
+  margin-right: 15.1px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: fit-content;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .container-9 {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .background {
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  right: 0px;
+  bottom: 0px;
+  height: 100%;
+}
+.food-delivery-website-template .logo-1 {
+  margin-right: 24px;
+  width: 320px;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 700;
+  font-size: 32px;
+  letter-spacing: 0.3px;
+  line-height: 1.5;
+  color: #F40469;
+}
+.food-delivery-website-template .partners {
+  margin-right: 12px;
+  width: 100px;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: 0.3px;
+  line-height: 1.333;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .about-us {
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: 0.3px;
+  line-height: 1.333;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .privacy-policy {
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: 0.3px;
+  line-height: 1.333;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .contact-us {
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 600;
+  font-size: 18px;
+  letter-spacing: 0.3px;
+  line-height: 1.333;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .menu-1 {
+  margin: 17px 0 7px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 489.9px;
+  height: fit-content;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .container-23 {
+  position: relative;
+  margin-bottom: 90px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 833.9px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .lorem-ipsum-stre {
+  margin-right: 48px;
+  width: 368px;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.3px;
+  line-height: 1.714;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .all-restaurant-best {
+  margin-right: 67.1px;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.3px;
+  line-height: 1.714;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .faq-join-our-program {
+  margin-right: 45.5px;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.3px;
+  line-height: 1.714;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .our-parent-company-m {
+  margin-bottom: 48px;
+  display: inline-block;
+  overflow-wrap: break-word;
+  font-family: 'Jost';
+  font-weight: 400;
+  font-size: 14px;
+  letter-spacing: 0.3px;
+  line-height: 1.714;
+  color: rgba(0, 0, 0, 0.85);
+}
+.food-delivery-website-template .container-17 {
+  display: flex;
+  flex-direction: row;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .container-16 {
+  position: relative;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-self: flex-start;
+  width: 874.2px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template .footer {
+  position: absolute;
+  right: -459.7px;
+  bottom: -546.1px;
+  display: flex;
+  flex-direction: column;
+  padding-left: 104px;
+  width: 1899.7px;
+  height: 1138.1px;
+  box-sizing: border-box;
+}
+.food-delivery-website-template {
+  background: #FFFFFF;
+  display: flex;
+  padding-top: 24px;
+  width: 1440px;
+  box-sizing: border-box;
+}
